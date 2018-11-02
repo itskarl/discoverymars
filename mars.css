@@ -1,0 +1,19 @@
+body {
+padding: 0;
+margin: 0;
+font-family: 'Dosis', sans-serif;
+}
+
+h1, h2, h3 , h4 {
+  margin: 2px;
+}
+
+.main-wrapper {
+  grid
+}
+#main-grid {
+  background-color: pink;
+  width: 600px;
+  height: 600px;
+  position: relative;
+}
