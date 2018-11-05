@@ -86,4 +86,4 @@ setInterval(function(){
   updateBotsCall.open("GET", botsLink, true);
   updateBotsCall.send();
 
-}, 1500);
+}, 1000);
