@@ -1,5 +1,7 @@
 # Mars Mining Discovery Tournament
 
+Deployed Link here [https://itskarl.github.io/discoverymars/](https://itskarl.github.io/discoverymars/)
+
 ## My approach
 
 With the time constraints and my skills as a novice programmer, I decided to work with Vanilla CSS, JS, and HTML.
